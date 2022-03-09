@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: #7b241c;
+    position:fixed;
+    width: 100%;
+    height: 150px;
+    border:solid black 5px;
+    z-index: 1;
+}
+
+h6{
+    margin: auto;
+    height: 100px;
+    width: 50%;
+    font-size: small;
+}
+
+.headerino{
+    margin: auto;
+    height: 50px;
+    width: 50%;
+    font-size: xx-large;
+    font-family: 'Bangers', cursive;
+    text-shadow: 2px 2px gray;
+}
+
+nav{
+    top: 160px;
+    height: 1000%;
+    width:  150px;
+    background-color: black;
+    border: solid #7b241c 5px;
+    position: absolute;
+}
+
+a {
+    color: white;
+    height: 150px;
+    display: inline-block;
+    position: relative;
+}
+
+img{
+    position: relative;
+    display: inline-block;
+    top: 275px;
+    left: 175px;
+}
+
+mark{
+    position: relative;
+    top: 175px;
+    left: 175px;
+    display: inline-block;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    z-index: 2;
+    background-color: #7b241c;
+    border:black solid 5px;
+}
+
+/* Style the form element with a border around it */
+form {
+    border: 4px solid #7b241c;
+  }
+  
+  /* Add some padding and a grey background color to containers */
+  .container {
+    padding: 20px;
+    background-color: #000000;
+    top: 170px;
+    left: 170px;
+    position: relative;
+  }
+  
+  /* Style the input elements and the submit button */
+  input[type=text], input[type=submit] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 5px solid #7b241c;
+    box-sizing: border-box;
+    background-color: #7b241c;
+  }
+  
+  /* Add margins to the checkbox */
+  input[type=checkbox] {
+    margin-top: 16px;
+  }
+  
+  /* Style the submit button */
+  input[type=submit] {
+    background-color: #7b241c;
+    color: white;
+    border: none;
+  }
+  
+  input[type=submit]:hover {
+    opacity: 0.8;
+  }
+
+  h2{
+      color: white;
+  }
+  .subfunny{
+      color: white;
+  }
+
+  table, th, td, tr {
+   /* color: black;
+    border: 5px solid;
+    border-collapse: collapse;*/
+    position: relative;
+    top: 170px;
+    left: 170px;
+  }
+
+  .comment{
+      position: relative;
+      top: 170px;
+      left: 170px;
+  }
+
+
+header {
+    background-color: #7B241C;
+}
+ul {
+    margin-left: 50px;
+    font-family: Leelawadee UI;
+    top: 170px;
+    left: 170px;
+    position: relative;
+}
+
+
